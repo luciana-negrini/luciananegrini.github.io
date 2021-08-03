@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Portifólio DH | Lu Negrini</title>
-        <link rel="stylesheet" href="css/style.css"><!-- css -->
+        <link rel="stylesheet" href="https://luciananegrini.github.io/styles.css"><!-- css -->
         <link rel="preconnect" href="https://fonts.googleapis.com"><!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
