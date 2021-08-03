@@ -1,2 +1,2 @@
-# https://github.com/luciana-negrini/luciananegrini.github.io
+# https://luciananegrini.github.io
 Exercício Rec FrontEnd1
