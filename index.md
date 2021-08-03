@@ -26,8 +26,7 @@
                     <li><a href="#sec-habilidades">Habilidades</a></li>
                     <li><a href="#sec-contato">Contato</a></li>
                 </ul>
-            </nav>
-            
+            </nav>            
         </header>
         <main>
             <div id="introduction">
@@ -93,7 +92,6 @@
                 </div>
             </section>
             <section id="sec-contato"><!-- Seção Contato -->
-                
                 <div id="form-container">
                     <h2>Contato</h2><!-- Título  -->
                     <form action="/Recuperacao/registro/registro.xlsx" method="POST"><!-- formulário, não possui botões -->
@@ -117,5 +115,4 @@
             <!-- Não possui footer -->
         </footer>
     </body>
-
 </html>
