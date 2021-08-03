@@ -14,7 +14,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: absolute;
+    position:absolute;
 }
 
 #logo-container {
@@ -31,12 +31,9 @@ h1 {
     letter-spacing: 1px;
     text-align: left;
 }
-
 /* TOPO > Navbar */
 
-nav {
-    padding-right: 12.5%;
-}
+nav {padding-right: 12.5%;}
 
 header ul {
     list-style: none;
@@ -75,9 +72,7 @@ h2 {
     padding-bottom: 7rem;
 }
 
-#introduction img {
-    padding-bottom: 1rem;
-}
+#introduction img {padding-bottom: 1rem;}
 
 #introduction p {
     font-size: 2rem;
@@ -88,13 +83,11 @@ h2 {
     height: 50vh;
 }
 
-span {
-    font-style: italic;
-}
+span {font-style: italic;}
 
 /* PRINCIPAL > Seção Portifólio */
 
-#sec-portifolio {
+#sec-portifolio{
     margin-left: 12.5%;
     margin-right: 12.5%;
     height: 240vh;
@@ -115,25 +108,11 @@ span {
     padding: 8vh;
 }
 
-.img-portifolio-1 {
-    background-color: #DBECFF;
-}
-
-.img-portifolio-2 {
-    background-color: #FFEFD7;
-}
-
-.img-portifolio-3 {
-    background-color: #D6F3F3;
-}
-
-.img-portifolio-4 {
-    background-color: #DBECFF;
-}
-
-.img-portifolio-5 {
-    background-color: #CBD7E4;
-}
+.img-portifolio-1 {background-color: #DBECFF;}
+.img-portifolio-2 {background-color: #FFEFD7;}
+.img-portifolio-3 {background-color: #D6F3F3;}
+.img-portifolio-4 {background-color: #DBECFF;}
+.img-portifolio-5{ background-color: #CBD7E4;}
 
 /* PRINCIPAL > Seção Potifólio > imagens portifólio > Legendas de imagens */
 
@@ -203,7 +182,7 @@ h3 {
 }
 
 /* PRINCIPAL > Seção Habilidades > Título e Lista */
-#sec-habilidades h2 {
+#sec-habilidades h2{
     font-size: 5rem;
     padding-bottom: 5rem;
 }
@@ -215,7 +194,7 @@ h3 {
     letter-spacing: 1px;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items:baseline;
 }
 
 /* PRINCIPAL > Seção Contato */
@@ -245,20 +224,15 @@ h3 {
     text-align: left;
 }
 
-.campo-form {
-    padding-bottom: 0.5rem
-}
+.campo-form {padding-bottom: 0.5rem}
 
 input {
     height: 3rem;
 }
 
-textarea {
-    height: 16rem;
-}
+textarea {height: 16rem;}
 
-input,
-textarea {
+input, textarea {
     border: solid 3px #CCCCCC;
     width: 720px;
 }
